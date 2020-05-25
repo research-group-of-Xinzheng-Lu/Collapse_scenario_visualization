@@ -1,0 +1,42 @@
+﻿生成启动时间为 2020/3/21 20:49:40。
+     1>项目“G:\osg_test\SingleVR-bc0304\osgVR\osgVR.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\osgVR.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>Main.cpp(139): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(156): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(185): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(204): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(211): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(276): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(328): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(414): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(443): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(1179): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(1223): warning C4018: “<”: 有符号/无符号不匹配
+     1>Main.cpp(1235): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\osg_test\SingleVR-bc0304\Release\osgVR.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\OSG\OpenSceneGraph-3.5.1\lib" /LIBPATH:"D:\OSG\OpenSceneGraph-3.5.1\lib\osgPlugins-3.5.1" /LIBPATH:D:\OSG\3rdParty\lib OpenThreads.lib osg.lib osgDB.lib osgFX.lib osgGA.lib osgManipulator.lib osgParticle.lib osgShadow.lib osgSim.lib osgTerrain.lib osgText.lib osgUtil.lib osgViewer.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\osgVR.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\osg_test\SingleVR-bc0304\Release\osgVR.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\osg_test\SingleVR-bc0304\Release\osgVR.lib" /MACHINE:X86 Release\Global.obj
+         Release\LoadModels.obj
+         Release\Main.obj
+         Release\ReadDamageState.obj
+         Release\ReadResult.obj
+         正在生成代码
+         已完成代码的生成
+         osgVR.vcxproj -> G:\osg_test\SingleVR-bc0304\Release\osgVR.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\osg_test\SingleVR-bc0304\Release\osgVR.exe;#1" /manifest Release\osgVR.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\osgVR.unsuccessfulbuild”。
+         正在对“Release\osgVR.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\osg_test\SingleVR-bc0304\osgVR\osgVR.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:37.20
