@@ -1,0 +1,908 @@
+  BuildingID     GroundMotion    Damage state of 1~N floors 
+      1  Elcentro    4    2
+      2  Elcentro    4    2    1
+      3  Elcentro    4    2    1
+      4  Elcentro    4
+      5  Elcentro    2    2    1
+      6  Elcentro    2    2    2    1    1
+      7  Elcentro    2    2    1
+      8  Elcentro    2    2    1
+      9  Elcentro    2    1
+     10  Elcentro    4    3    2    2    1
+     11  Elcentro    4
+     12  Elcentro    4    3    2    1
+     13  Elcentro    4    3    2    1
+     14  Elcentro    4    3    2    1
+     15  Elcentro    4    2    1
+     16  Elcentro    4
+     17  Elcentro    4    3    3    2    1    0
+     18  Elcentro    4    3    3    2    1    0
+     19  Elcentro    4    2
+     20  Elcentro    4
+     21  Elcentro    4    2
+     22  Elcentro    4    3    3    2    1    0
+     23  Elcentro    4    3    3    2    1    0
+     24  Elcentro    4    3    3    2    1    0
+     25  Elcentro    4    3    3    2    1    0
+     26  Elcentro    3
+     27  Elcentro    4    3    3    2    1    0
+     28  Elcentro    4    3    3    2    1    0
+     29  Elcentro    2    2    2    1    1    1
+     30  Elcentro    2    1
+     31  Elcentro    2    2    2    1    1    1
+     32  Elcentro    2    2    2    1    1    1
+     33  Elcentro    2    2    2    1    1    1
+     34  Elcentro    2    2    2    1    1    1
+     35  Elcentro    4    3    3    2    1    0
+     36  Elcentro    4    3    3    2    1    0
+     37  Elcentro    4    3    3    2    1    0
+     38  Elcentro    4    3    3    2    1    0
+     39  Elcentro    4
+     40  Elcentro    4    3    3    2    1    0
+     41  Elcentro    4    3    3    2    1    0
+     42  Elcentro    3
+     43  Elcentro    4    2
+     44  Elcentro    4    3    3    2    1    0
+     45  Elcentro    2    2    2    1    1    1
+     46  Elcentro    2    2    2    1    1    1
+     47  Elcentro    2    2    2    1    1    1
+     48  Elcentro    2    2    2    1    1    1
+     49  Elcentro    2
+     50  Elcentro    4    2
+     51  Elcentro    3
+     52  Elcentro    4    3    3    2    1    0
+     53  Elcentro    4    3    3    2    1    0
+     54  Elcentro    4    3    3    2    1    0
+     55  Elcentro    4    3    3    2    1    0
+     56  Elcentro    4    3    3    2    1    0
+     57  Elcentro    4    2
+     58  Elcentro    4    3    3    2    1    0
+     59  Elcentro    3
+     60  Elcentro    4    3    3    2    1    0
+     61  Elcentro    4    3    3    2    1    0
+     62  Elcentro    4    3    3    2    1    0
+     63  Elcentro    4    2    1
+     64  Elcentro    4    3    3    2    1    0
+     65  Elcentro    4    3    3    2    1    0
+     66  Elcentro    2
+     67  Elcentro    2    2    2    1    1    1
+     68  Elcentro    2    2    1
+     69  Elcentro    2    2    2    1    1    1
+     70  Elcentro    2    2    2    1    1    1
+     71  Elcentro    2    2    2    1    1    1
+     72  Elcentro    3
+     73  Elcentro    3
+     74  Elcentro    4    2    1
+     75  Elcentro    4    3    3    2    1    0
+     76  Elcentro    4    3    3    2    1    0
+     77  Elcentro    4    3    3    2    1    0
+     78  Elcentro    4    3    3    2    1    0
+     79  Elcentro    4    3    3    2    1    0
+     80  Elcentro    4
+     81  Elcentro    4    2    1
+     82  Elcentro    4    2
+     83  Elcentro    4
+     84  Elcentro    4    3    3    2    1    0
+     85  Elcentro    4    2    1
+     86  Elcentro    4    3    3    2    1    0
+     87  Elcentro    4    3    3    2    1    0
+     88  Elcentro    4    3    3    2    1    0
+     89  Elcentro    2    2    2    1    1    1
+     90  Elcentro    2    2    2    1    1    1
+     91  Elcentro    2    2    2    1    1    1
+     92  Elcentro    2    2    2    1    1    1
+     93  Elcentro    2    1
+     94  Elcentro    2    2    2    1    1    1
+     95  Elcentro    4    3    3    2    1    0
+     96  Elcentro    4    3    3    2    1    0
+     97  Elcentro    4    3    3    2    1    0
+     98  Elcentro    4    3    3    2    1    0
+     99  Elcentro    4    3    3    2    1    0
+    100  Elcentro    3
+    101  Elcentro    4
+    102  Elcentro    4    3    3    2    1    0
+    103  Elcentro    3
+    104  Elcentro    4    2    1
+    105  Elcentro    4    3    2    1
+    106  Elcentro    3
+    107  Elcentro    4
+    108  Elcentro    2    2    2    1    1    1
+    109  Elcentro    2    2    2    1    1    1
+    110  Elcentro    2    2    2    1    1    1
+    111  Elcentro    2    2    2    1    1    1
+    112  Elcentro    2    2    2    1    1    1
+    113  Elcentro    2
+    114  Elcentro    4    3    2    1
+    115  Elcentro    3
+    116  Elcentro    3
+    117  Elcentro    4    3    2    1
+    118  Elcentro    4    3    3    2    1    0
+    119  Elcentro    4    2
+    120  Elcentro    4    3    3    2    1    0
+    121  Elcentro    4    3    3    2    1    0
+    122  Elcentro    4    3    3    2    1    0
+    123  Elcentro    4    2    1
+    124  Elcentro    4    3    3    2    1    0
+    125  Elcentro    4    2
+    126  Elcentro    4    3    2    1
+    127  Elcentro    4
+    128  Elcentro    2
+    129  Elcentro    2    2    1    1
+    130  Elcentro    2    2    1    1
+    131  Elcentro    2    2    1    1
+    132  Elcentro    2    2    1    1
+    133  Elcentro    2    2    2    1    1    1
+    134  Elcentro    4    3    3    2    1    0
+    135  Elcentro    4    3    3    2    1    0
+    136  Elcentro    4    3    3    2    1    0
+    137  Elcentro    4    3    3    2    1    0
+    138  Elcentro    4    3    2    2    1
+    139  Elcentro    4
+    140  Elcentro    4
+    141  Elcentro    4    2    1
+    142  Elcentro    4    3    2    1
+    143  Elcentro    4    3    3    2    1    0
+    144  Elcentro    4    3    3    2    1    0
+    145  Elcentro    4    3    3    2    1    0
+    146  Elcentro    3
+    147  Elcentro    4    3    3    2    1    0
+    148  Elcentro    2
+    149  Elcentro    2    2    2    1    1    1
+    150  Elcentro    2    2    2    1    1    1
+    151  Elcentro    2
+    152  Elcentro    2
+    153  Elcentro    2    2    1
+    154  Elcentro    3
+    155  Elcentro    4    2    1
+    156  Elcentro    4    3    2    1
+    157  Elcentro    4    3    3    2    1    0
+    158  Elcentro    4    3    3    2    1    0
+    159  Elcentro    4
+    160  Elcentro    4    3    3    2    1    0
+    161  Elcentro    4    3    2    1
+    162  Elcentro    4    3    3    2    1    0
+    163  Elcentro    4    3    3    2    1    0
+    164  Elcentro    4    3    3    2    1    0
+    165  Elcentro    4    3    3    2    1    0
+    166  Elcentro    4    3    3    2    1    0
+    167  Elcentro    4    3    3    2    1    0
+    168  Elcentro    2
+    169  Elcentro    2
+    170  Elcentro    2
+    171  Elcentro    2    2    2    1    1    1
+    172  Elcentro    2    2    2    1    1    1
+    173  Elcentro    2    2    2    1    1    1
+    174  Elcentro    4    3    3    2    1    0
+    175  Elcentro    4    3    3    2    1    0
+    176  Elcentro    4    3    3    2    1    0
+    177  Elcentro    4    3    3    2    1    0
+    178  Elcentro    3
+    179  Elcentro    3
+    180  Elcentro    3
+    181  Elcentro    3
+    182  Elcentro    4    3    3    2    1    0
+    183  Elcentro    4    2    1
+    184  Elcentro    4    3    3    2    1    0
+    185  Elcentro    4    2    1
+    186  Elcentro    3
+    187  Elcentro    4    3    2    2    1
+    188  Elcentro    4    3    2    2    1
+    189  Elcentro    4    3    3    2    1    0
+    190  Elcentro    4    3    3    2    1    0
+    191  Elcentro    4    3    3    2    1    0
+    192  Elcentro    2    2    2    1    1    1
+    193  Elcentro    2
+    194  Elcentro    2
+    195  Elcentro    2    2    1    1
+    196  Elcentro    2    2    1    1
+    197  Elcentro    2    2    1    1
+    198  Elcentro    4    3    2    1
+    199  Elcentro    4    3    3    2    1    0
+    200  Elcentro    4    3    3    2    1    0
+    201  Elcentro    4    3    3    2    1    0
+    202  Elcentro    2
+    203  Elcentro    2    1
+    204  Elcentro    2
+    205  Elcentro    2    1
+    206  Elcentro    2    2    2    1    1    1
+    207  Elcentro    2    2    1
+    208  Elcentro    4    2
+    209  Elcentro    4    2
+    210  Elcentro    2    1    1    1    1    1    0
+    211  Elcentro    4    2    1
+    213  Elcentro    4    2
+    214  Elcentro    3
+    215  Elcentro    3
+    216  Elcentro    3
+    217  Elcentro    3
+    218  Elcentro    3
+    219  Elcentro    4
+    220  Elcentro    4    3    2    1
+    221  Elcentro    3
+    222  Elcentro    4    2
+    223  Elcentro    4    2    1
+    224  Elcentro    4    3    2    2    1
+    225  Elcentro    4
+    226  Elcentro    2    2    1
+    228  Elcentro    2    1    1    1    1    1    1    1    1    1    0
+    229  Elcentro    2
+    230  Elcentro    2    1
+    231  Elcentro    2
+    232  Elcentro    2    2    1
+    234  Elcentro    2
+    235  Elcentro    4    3    2    1
+    236  Elcentro    2    1    1    1    1    1    1    1    1    1    0
+    237  Elcentro    4
+    238  Elcentro    4    2
+    239  Elcentro    4    3    2    1
+    240  Elcentro    4    3    2    1
+    241  Elcentro    4    2
+    242  Elcentro    4    3    2    1
+    243  Elcentro    4    2    1
+    244  Elcentro    2    1    1    1    1    1    1    1    1    0    0
+    245  Elcentro    4    2    1
+    246  Elcentro    3
+    247  Elcentro    3
+    248  Elcentro    2    1
+    249  Elcentro    2
+    250  Elcentro    2    2    2    1    1
+    251  Elcentro    2    2    2    1    1
+    252  Elcentro    2    2    1    1
+    253  Elcentro    2    1    1    1    1    1    1    1    1    0    0
+    254  Elcentro    2    1
+    255  Elcentro    3
+    256  Elcentro    4    2
+    257  Elcentro    4    2    1
+    258  Elcentro    4    2    1
+    259  Elcentro    4    3    2    1
+    260  Elcentro    4    2    1
+    261  Elcentro    4    2
+    262  Elcentro    4    2    1
+    263  Elcentro    4    2    1
+    264  Elcentro    4    2    1
+    265  Elcentro    4    2    1
+    266  Elcentro    4    3    2    2    1
+    267  Elcentro    4    2    1
+    268  Elcentro    4    3    2    2    1
+    269  Elcentro    2    1    1    1    1    1    1    0    0
+    270  Elcentro    4    2    1
+    271  Elcentro    4    2    1
+    272  Elcentro    2    2    1
+    273  Elcentro    2
+    274  Elcentro    2    2    1
+    275  Elcentro    2    2    2    1    1
+    276  Elcentro    2
+    277  Elcentro    2    2    2    1    1
+    278  Elcentro    2    1    1    1    1    1    1    0    0
+    279  Elcentro    4    2    1
+    280  Elcentro    4    2    1
+    281  Elcentro    4    2    1
+    282  Elcentro    4    2    1
+    283  Elcentro    4    2    1
+    284  Elcentro    4    3    2    1
+    285  Elcentro    2    1    1    1    1    1    1    0    0
+    286  Elcentro    4    2    1
+    287  Elcentro    2    1    1    1    1    1    1    0    0
+    288  Elcentro    4    2    1
+    289  Elcentro    4    2    1
+    290  Elcentro    3
+    291  Elcentro    4    2    1
+    292  Elcentro    2    1    1    1    1    1    1    0    0
+    293  Elcentro    4    3    2    2    1
+    294  Elcentro    4    2    1
+    295  Elcentro    4    2
+    296  Elcentro    4    2    1
+    297  Elcentro    4    2    1
+    298  Elcentro    2    1    1    1    1    1    1    0    0
+    299  Elcentro    2    1    1    1    1    1    1    0    0
+    300  Elcentro    2    2    1
+    301  Elcentro    2    2    1
+    302  Elcentro    2    1
+    303  Elcentro    2    2    1
+    304  Elcentro    2    1
+    305  Elcentro    2    2    1
+    306  Elcentro    4    2
+    307  Elcentro    4    2    1
+    308  Elcentro    3
+    309  Elcentro    4    3    3    2    1    0
+    310  Elcentro    4    2    1
+    311  Elcentro    4
+    312  Elcentro    4
+    313  Elcentro    4    2    1
+    314  Elcentro    4    2    1
+    315  Elcentro    4    2    1
+    316  Elcentro    4    2    1
+    317  Elcentro    4    2    1
+    318  Elcentro    4    2    1
+    319  Elcentro    4    2    1
+    320  Elcentro    4    2
+    321  Elcentro    4    2    1
+    322  Elcentro    4    3    3    2    1    0
+    323  Elcentro    4    4    3    2    1    0
+    324  Elcentro    4    3    2    1
+    325  Elcentro    2    2    1    1
+    326  Elcentro    2    2    1    1
+    327  Elcentro    2    1    1    1    1    1    0    0
+    328  Elcentro    2    1    1    1    1    1    0    0
+    329  Elcentro    2    2    1    1
+    330  Elcentro    2    2    2    1    1    1
+    331  Elcentro    2    2    2    1    1    1
+    332  Elcentro    2    2    1    1
+    333  Elcentro    4    2    1
+    334  Elcentro    4    2    1
+    335  Elcentro    4    4    4    2    1    0
+    336  Elcentro    4    3    3    2    1    0
+    337  Elcentro    4    3    3    2    1    0
+    338  Elcentro    4    2    1
+    339  Elcentro    4
+    340  Elcentro    4    2    1
+    341  Elcentro    4    3    2    1
+    342  Elcentro    2    1    1    1    1    1    1    1    0    0
+    343  Elcentro    4    4    4    4    4    0
+    344  Elcentro    4    3    3    2    1    0
+    345  Elcentro    4    2
+    346  Elcentro    2    1    1    1    1    1    0    0
+    347  Elcentro    4    2
+    348  Elcentro    4    2    1
+    349  Elcentro    4    2    1
+    350  Elcentro    2    1
+    351  Elcentro    2    2    1    1
+    352  Elcentro    2    2    1
+    353  Elcentro    4    2    2    1    1    1
+    354  Elcentro    2    2    2    1    1    1
+    355  Elcentro    2    2    1    1
+    356  Elcentro    4    3    3    2    1    0
+    357  Elcentro    4    4    4    2    1    0
+    358  Elcentro    2    1    1    1    1    1    1    1    0    0
+    359  Elcentro    4    3    2    2    1
+    360  Elcentro    4    3    2    1
+    361  Elcentro    4    2    1
+    362  Elcentro    4    2
+    363  Elcentro    4    3    3    2    1    0
+    364  Elcentro    4    2    1
+    365  Elcentro    3
+    366  Elcentro    4    4    4    2    1    0
+    367  Elcentro    4    3    2    2    1
+    368  Elcentro    4    3    3    2    1    0
+    369  Elcentro    4    3    2    2    1
+    370  Elcentro    2    1    1    1    1    1    0    0
+    371  Elcentro    4    3    2    1
+    372  Elcentro    4    3    2    1
+    373  Elcentro    2    1    1    1    1    1    1    1    0    0
+    374  Elcentro    4    3    3    2    1    0
+    375  Elcentro    2    2    2    1    1    1
+    376  Elcentro    2    2    2    1    1    1
+    377  Elcentro    2    2    1    1
+    378  Elcentro    2    2    2    1    1    1
+    379  Elcentro    2    2    1    1
+    380  Elcentro    2    2    2    1    1    1
+    381  Elcentro    4    3    3    2    1    0
+    382  Elcentro    2    1    1    1    1    1    1    1    1    1    0
+    383  Elcentro    4    3    2    2    1
+    384  Elcentro    4    3    2    2    1
+    385  Elcentro    2    1    1    1    1    1    1    0    0
+    386  Elcentro    4    3    2    1
+    387  Elcentro    4    2    1
+    388  Elcentro    4
+    389  Elcentro    4
+    390  Elcentro    2    1    1    1    1    1    1    1    1    1    0
+    391  Elcentro    4    2    1
+    392  Elcentro    4    3    2    1
+    393  Elcentro    4    3    3    2    1    0
+    394  Elcentro    4    3    3    2    1    0
+    395  Elcentro    4    4    4    4    1    0
+    396  Elcentro    4    3    3    2    1    0
+    397  Elcentro    4    2    1
+    398  Elcentro    2    1    1    1    1    1    1    1    1    1    1    0
+    399  Elcentro    3
+    400  Elcentro    2    2    2    1    1    1
+    401  Elcentro    2    2    1    1
+    402  Elcentro    2    2    2    1    1    1
+    403  Elcentro    2    2    2    1    1    1
+    404  Elcentro    2    2    2    1    1    1
+    405  Elcentro    2    2    2    1    1    1
+    406  Elcentro    4    3    3    2    1    0
+    407  Elcentro    2    1    1    1    1    1    1    1    0    0
+    408  Elcentro    3
+    409  Elcentro    4    2    1
+    410  Elcentro    4    3    3    2    1    0
+    411  Elcentro    4    3    2    1
+    412  Elcentro    4    3    3    2    1    0
+    413  Elcentro    4    2    1
+    414  Elcentro    4    2    1
+    415  Elcentro    4    3    3    2    1    0
+    416  Elcentro    4    3    3    2    1    0
+    417  Elcentro    4    3    3    2    1    0
+    418  Elcentro    4    3    2    1
+    419  Elcentro    4    3    3    2    1    0
+    420  Elcentro    4    3    3    2    1    0
+    421  Elcentro    4    3    2    1
+    422  Elcentro    4    3    3    2    1    0
+    423  Elcentro    4    3    3    2    1    0
+    424  Elcentro    4    3    2    2    1
+    425  Elcentro    2    2    2    1    1    1
+    426  Elcentro    2    2    2    1    1    1
+    427  Elcentro    2    2    2    1    1    1
+    428  Elcentro    2    2    2    1    1    1
+    429  Elcentro    2    2    2    1    1    1
+    430  Elcentro    2    2    2    1    1    1
+    431  Elcentro    4    2    1
+    432  Elcentro    4    3    3    2    1    0
+    433  Elcentro    4    3    3    2    1    0
+    434  Elcentro    4    3    3    2    1    0
+    435  Elcentro    4    3    2    2    1
+    436  Elcentro    4    3    3    2    1    0
+    437  Elcentro    4    3    3    2    1    0
+    438  Elcentro    4    3    3    2    1    0
+    439  Elcentro    4    3    3    2    1    0
+    440  Elcentro    4    3    3    2    1    0
+    441  Elcentro    4    2    1
+    442  Elcentro    4    3    3    2    1    0
+    443  Elcentro    4    3    3    2    1    0
+    444  Elcentro    4    2    1
+    445  Elcentro    4    3    3    2    1    0
+    446  Elcentro    4    3    3    2    1    0
+    447  Elcentro    4    3    3    2    1    0
+    448  Elcentro    4    3    3    2    1    0
+    449  Elcentro    4    3    3    2    1    0
+    450  Elcentro    2    2    2    1    1    1
+    451  Elcentro    2    2    1    1
+    452  Elcentro    2    2    2    1    1    1
+    453  Elcentro    2    2    2    1    1    1
+    454  Elcentro    2    2    1
+    455  Elcentro    2    2    2    1    1
+    456  Elcentro    4    2    1
+    457  Elcentro    4    3    3    2    1    0
+    458  Elcentro    4    3    3    2    1    0
+    459  Elcentro    4    2
+    460  Elcentro    4    2    1
+    461  Elcentro    4    2
+    462  Elcentro    4    2    1
+    463  Elcentro    4    3    3    2    1    0
+    464  Elcentro    4    3    3    2    1    0
+    465  Elcentro    4    3    3    2    1    0
+    466  Elcentro    4    3    3    2    1    0
+    467  Elcentro    4    3    3    2    1    0
+    468  Elcentro    4    3    3    2    1    0
+    469  Elcentro    4    3    3    2    1    0
+    470  Elcentro    4    3    2    1
+    471  Elcentro    4    3    3    2    1    0
+    472  Elcentro    4    2    1
+    473  Elcentro    4    3    3    2    1    0
+    474  Elcentro    4    3    2    1
+    475  Elcentro    2    2    2    1    1    1
+    476  Elcentro    2    2    2    1    1    1
+    477  Elcentro    2    2    2    1    1    1
+    478  Elcentro    2    2    1
+    479  Elcentro    2    2    2    1    1    1
+    480  Elcentro    2    2    2    1    1    1
+    481  Elcentro    2    1    1    1    1    1    1    1    1    1    0
+    482  Elcentro    4    3    2    1
+    483  Elcentro    4    4    4    1    1    1    1    1    1    0    0
+    484  Elcentro    4    3    2    1
+    485  Elcentro    4    3    3    2    1    0
+    486  Elcentro    4    3    3    2    1    0
+    487  Elcentro    4    3    3    2    1    0
+    488  Elcentro    4    3    3    2    1    0
+    489  Elcentro    4    3    3    2    1    0
+    490  Elcentro    4    3    3    2    1    0
+    491  Elcentro    4    3    3    2    1    0
+    492  Elcentro    4    3    2    1
+    493  Elcentro    2    1    1    1    1    1    1    1    1    0    0
+    494  Elcentro    2    1    1    1    1    1    1    1    1    1    0
+    495  Elcentro    4    2    1
+    496  Elcentro    4    3    3    2    1    0
+    497  Elcentro    4    3    3    2    1    0
+    498  Elcentro    4    3    3    2    1    0
+    499  Elcentro    4    3    3    2    1    0
+    500  Elcentro    2    2    2    1    1    1
+    501  Elcentro    2    2    1
+    502  Elcentro    2    2    2    1    1    1
+    503  Elcentro    2    2    2    1    1    1
+    504  Elcentro    2    2    2    1    1    1
+    505  Elcentro    2    2    2    1    1    1
+    506  Elcentro    2    1    1    1    1    1    1    1    1    1    0
+    507  Elcentro    4    2
+    508  Elcentro    4    3    3    2    1    0
+    509  Elcentro    4    3    3    2    1    0
+    510  Elcentro    4    3    3    2    1    0
+    511  Elcentro    4    3    3    2    1    0
+    512  Elcentro    4    3    3    2    1    0
+    513  Elcentro    4    2    1
+    514  Elcentro    4    3    3    2    1    0
+    515  Elcentro    4    3    3    2    1    0
+    516  Elcentro    4    3    3    2    1    0
+    517  Elcentro    4    2    1
+    518  Elcentro    4    3    3    2    1    0
+    519  Elcentro    2    1    1    1    1    1    1    1    1    0    0
+    520  Elcentro    2    1    1    1    1    1    1    1    1    1    0
+    521  Elcentro    4    3    3    2    1    0
+    522  Elcentro    4    3    3    2    1    0
+    523  Elcentro    4    3    3    2    1    0
+    524  Elcentro    4    3    3    2    1    0
+    525  Elcentro    2    2    2    1    1    1
+    526  Elcentro    2    2    2    1    1    1
+    527  Elcentro    2    2    2    1    1    1
+    528  Elcentro    2    1    1    1    1    1    1    1    1    1    0
+    529  Elcentro    2    2    2    1    1    1
+    530  Elcentro    2    2    2    1    1
+    531  Elcentro    2    2    1    1
+    532  Elcentro    4
+    533  Elcentro    4    3    3    2    1    0
+    534  Elcentro    4    3    3    2    1    0
+    535  Elcentro    4    3    3    2    1    0
+    536  Elcentro    4    2    1
+    537  Elcentro    4    2    1
+    538  Elcentro    4    3    3    2    1    0
+    539  Elcentro    4    3    3    2    1    0
+    540  Elcentro    4    3    3    2    1    0
+    541  Elcentro    2    1    1    1    1    1    1    1    1    0    0
+    542  Elcentro    4    3    3    2    1    0
+    543  Elcentro    4    3    3    2    1    0
+    544  Elcentro    4    2    1
+    545  Elcentro    4    3    3    2    1    0
+    546  Elcentro    4    3    3    2    1    0
+    547  Elcentro    4    3    3    2    1    0
+    548  Elcentro    4    3    3    2    1    0
+    549  Elcentro    4    3    2    1
+    550  Elcentro    2    2    1
+    551  Elcentro    2    2    1
+    552  Elcentro    2    2    2    1    1    1
+    553  Elcentro    2    2    1
+    554  Elcentro    2    2    2    1    1    1
+    555  Elcentro    2    2    2    1    1    1
+    556  Elcentro    4    3    3    2    1    0
+    557  Elcentro    4    3    3    2    1    0
+    558  Elcentro    4    3    3    2    1    0
+    559  Elcentro    4    3    3    2    1    0
+    560  Elcentro    4    3    2    1
+    561  Elcentro    4    3    3    2    1    0
+    562  Elcentro    4    2    1
+    563  Elcentro    4    3    3    2    1    0
+    564  Elcentro    4    3    2    1
+    565  Elcentro    4    3    3    2    1    0
+    566  Elcentro    4    3    3    2    1    0
+    567  Elcentro    4    3    3    2    1    0
+    568  Elcentro    4    3    3    2    1    0
+    569  Elcentro    4    3    3    2    1    0
+    570  Elcentro    4    2    1
+    571  Elcentro    4    3    3    2    1    0
+    572  Elcentro    2    1    1    1    1    0    0
+    573  Elcentro    2    1    1    1    1    0    0
+    574  Elcentro    4    3    3    2    1    0
+    575  Elcentro    2    2    1
+    576  Elcentro    2    1    1    1    1    1    1    1    1    0
+    577  Elcentro    2    2    2    1    1    1
+    578  Elcentro    2    2    2    1    1    1
+    579  Elcentro    2    2    1
+    580  Elcentro    2    2    2    1    1    1
+    581  Elcentro    2    2    1    1
+    582  Elcentro    4    3    3    2    1    0
+    583  Elcentro    4    2    1
+    585  Elcentro    4    3    3    2    1    0
+    586  Elcentro    4    3    2    1
+    587  Elcentro    4    3    3    2    1    0
+    588  Elcentro    4    2    1
+    589  Elcentro    4    3    2    1
+    590  Elcentro    4    2    1
+    591  Elcentro    4    3    3    2    1    0
+    592  Elcentro    4    3    3    2    1    0
+    593  Elcentro    4    2    1
+    594  Elcentro    4    3    3    2    1    0
+    595  Elcentro    4    2
+    596  Elcentro    4    3    3    2    1    0
+    597  Elcentro    4    3    3    2    1    0
+    598  Elcentro    4    3    3    2    1    0
+    599  Elcentro    4    3    2    2    1
+    600  Elcentro    2    2    2    1    1    1
+    601  Elcentro    2
+    602  Elcentro    2    2    2    1    1    1
+    603  Elcentro    2    2    1    1
+    604  Elcentro    2    2    2    1    1    1
+    605  Elcentro    2    2    1    1
+    606  Elcentro    4    2
+    607  Elcentro    4    3    2    1
+    608  Elcentro    4    3    3    2    1    0
+    609  Elcentro    2    1    1    1    2    1    1    1    1    1    1    1    1    1    0    0
+    610  Elcentro    4    3    2    1
+    611  Elcentro    4    3    3    2    1    0
+    612  Elcentro    2    2    2    2    2    1    1    1    1    1    1    1    1    1    0    0
+    613  Elcentro    4    3    2    1
+    614  Elcentro    4
+    615  Elcentro    4    3    3    2    1    0
+    616  Elcentro    2    1    1    1    1    1    1    1    1    1    1    1    1    1    0    0
+    617  Elcentro    4    3    3    2    1    0
+    618  Elcentro    4    2    1
+    619  Elcentro    4    2
+    620  Elcentro    4    2
+    621  Elcentro    4    3    3    2    1    0
+    622  Elcentro    4    3    2    1
+    623  Elcentro    4    3    2    1
+    624  Elcentro    4    2    1
+    625  Elcentro    2    2    2    1    1    1
+    626  Elcentro    2    2    1    1
+    627  Elcentro    2    2    1    1
+    628  Elcentro    2    2    1    1
+    629  Elcentro    2    2    1    1
+    630  Elcentro    2    1    1    1    1    1    1    1    1    1    1    1    1    1    0    0
+    631  Elcentro    2    1    1    1    1    1    1    1    1    1    1    1    1    1    0    0
+    632  Elcentro    2    2    1
+    633  Elcentro    4    2    1
+    634  Elcentro    4    3    3    2    1    0
+    635  Elcentro    4    3    3    2    1    0
+    636  Elcentro    2    1    2    2    2    2    1    1    1    1    1    1    1    1    1    0    0
+    637  Elcentro    4    3    3    2    1    0
+    638  Elcentro    4    3    3    2    1    0
+    639  Elcentro    4    2    1
+    640  Elcentro    4    3    3    2    1    0
+    641  Elcentro    4    2    1
+    642  Elcentro    4    2    1
+    643  Elcentro    4    3    3    2    1    0
+    644  Elcentro    4    3    3    2    1    0
+    645  Elcentro    4    3    3    2    1    0
+    646  Elcentro    4    3    2    2    1
+    647  Elcentro    4    3    3    2    1    0
+    648  Elcentro    4    2
+    649  Elcentro    4    3    3    2    1    0
+    650  Elcentro    2    2    2    1    1    1
+    651  Elcentro    2    2    1
+    652  Elcentro    2    2    2    1    1    1
+    653  Elcentro    2    2    1
+    654  Elcentro    2    2    1
+    655  Elcentro    2    1
+    656  Elcentro    4    3    3    2    1    0
+    657  Elcentro    4    2    1
+    658  Elcentro    4    2    1
+    659  Elcentro    4    3    2    1
+    660  Elcentro    4    3    2    1
+    661  Elcentro    4    2
+    662  Elcentro    4    3    2    1
+    663  Elcentro    4    2    1
+    664  Elcentro    4    2
+    665  Elcentro    4    2    1
+    666  Elcentro    4    3    3    2    1    0
+    667  Elcentro    4    3    3    2    1    0
+    668  Elcentro    4    3    3    2    1    0
+    669  Elcentro    4    3    3    2    1    0
+    670  Elcentro    4    3    3    2    1    0
+    671  Elcentro    4    3    3    2    1    0
+    672  Elcentro    4    3    3    2    1    0
+    673  Elcentro    4    2    1
+    674  Elcentro    4    3    3    2    1    0
+    675  Elcentro    2    2    2    1    1    1
+    676  Elcentro    2    2    2    1    1    1
+    677  Elcentro    2    2    1    1
+    678  Elcentro    2    2    1    1
+    679  Elcentro    2    2    1
+    680  Elcentro    2    2    2    1    1
+    681  Elcentro    4    3    3    2    1    0
+    682  Elcentro    4    2
+    683  Elcentro    4    3    3    2    1    0
+    684  Elcentro    4    2
+    685  Elcentro    4    2    1
+    686  Elcentro    4    3    3    2    1    0
+    687  Elcentro    4    3    3    2    1    0
+    688  Elcentro    4    3    3    2    1    0
+    689  Elcentro    4    3    3    2    1    0
+    690  Elcentro    4
+    691  Elcentro    4    3    3    2    1    0
+    692  Elcentro    4    3    3    2    1    0
+    693  Elcentro    4    3    3    2    1    0
+    694  Elcentro    4    3    3    2    1    0
+    695  Elcentro    4
+    696  Elcentro    4
+    697  Elcentro    4    3    2    1
+    698  Elcentro    4    3    3    2    1    0
+    699  Elcentro    4    2
+    700  Elcentro    2    2    2    1    1    1
+    701  Elcentro    2    2    2    1    1    1
+    702  Elcentro    2
+    703  Elcentro    2    2    2    1    1    1
+    704  Elcentro    2    2    2    1    1    1
+    705  Elcentro    2    2    2    1    1    1
+    706  Elcentro    4    3    3    2    1    0
+    707  Elcentro    4    3    3    2    1    0
+    708  Elcentro    4    3    3    2    1    0
+    709  Elcentro    4    3    3    2    1    0
+    710  Elcentro    4    3    3    2    1    0
+    711  Elcentro    4    3    3    2    1    0
+    712  Elcentro    4    3    3    2    1    0
+    713  Elcentro    4    3    3    2    1    0
+    714  Elcentro    4
+    715  Elcentro    4    3    3    2    1    0
+    716  Elcentro    4    3    3    2    1    0
+    717  Elcentro    4
+    718  Elcentro    4    3    3    2    1    0
+    719  Elcentro    4    2    1
+    720  Elcentro    4    3    3    2    1    0
+    721  Elcentro    4    3    3    2    1    0
+    722  Elcentro    4    3    3    2    1    0
+    723  Elcentro    4    3    3    2    1    0
+    724  Elcentro    4    3    3    2    1    0
+    725  Elcentro    2    2    2    1    1    1
+    726  Elcentro    2    1
+    727  Elcentro    2    2    2    1    1    1
+    728  Elcentro    2    2    2    1    1    1
+    729  Elcentro    2    2    2    1    1    1
+    730  Elcentro    2    2    2    1    1    1
+    731  Elcentro    4    3    3    2    1    0
+    732  Elcentro    4    3    3    2    1    0
+    733  Elcentro    4
+    734  Elcentro    4    3    3    2    1    0
+    735  Elcentro    4    2    1
+    736  Elcentro    4    3    2    2    1
+    737  Elcentro    4    3    3    2    1    0
+    738  Elcentro    4    3    3    2    1    0
+    739  Elcentro    4    3    3    2    1    0
+    740  Elcentro    4
+    741  Elcentro    4    3    3    2    1    0
+    742  Elcentro    4    3    3    2    1    0
+    743  Elcentro    4    3    3    2    1    0
+    744  Elcentro    4    3    3    2    1    0
+    745  Elcentro    4
+    746  Elcentro    4    3    3    2    1    0
+    747  Elcentro    4    2
+    748  Elcentro    4    3    3    2    1    0
+    749  Elcentro    4    3    3    2    1    0
+    750  Elcentro    2    2    2    1    1    1
+    751  Elcentro    2    2    2    1    1    1
+    752  Elcentro    2    2    2    1    1    1
+    753  Elcentro    2    2    2    1    1
+    754  Elcentro    2    2    2    1    1    1
+    755  Elcentro    2    2    2    1    1    1
+    756  Elcentro    4    3    2    2    1
+    757  Elcentro    4    2    1
+    758  Elcentro    4    3    3    2    1    0
+    759  Elcentro    4    3    3    2    1    0
+    760  Elcentro    4    3    3    2    1    0
+    761  Elcentro    4    3    3    2    1    0
+    762  Elcentro    4    3    3    2    1    0
+    763  Elcentro    4    3    3    2    1    0
+    764  Elcentro    4    3    3    2    1    0
+    765  Elcentro    4    3    3    2    1    0
+    766  Elcentro    4    3    3    2    1    0
+    767  Elcentro    4    3    3    2    1    0
+    768  Elcentro    4    3    3    2    1    0
+    769  Elcentro    4    3    3    2    1    0
+    770  Elcentro    4    2    1
+    771  Elcentro    4    3    3    2    1    0
+    772  Elcentro    4    3    3    2    1    0
+    773  Elcentro    4    3    3    2    1    0
+    774  Elcentro    4    3    3    2    1    0
+    775  Elcentro    2    2    2    1    1    1
+    776  Elcentro    2    2    2    1    1    1
+    777  Elcentro    2    2    2    1    1    1
+    778  Elcentro    2    2    2    1    1    1
+    779  Elcentro    2    2    2    1    1    1
+    780  Elcentro    2    2    2    1    1    1
+    781  Elcentro    4    3    3    2    1    0
+    782  Elcentro    4    3    3    2    1    0
+    783  Elcentro    4    3    3    2    1    0
+    784  Elcentro    4    3    3    2    1    0
+    785  Elcentro    4
+    786  Elcentro    4    3    3    2    1    0
+    787  Elcentro    4
+    788  Elcentro    4    3    3    2    1    0
+    789  Elcentro    4
+    790  Elcentro    4    3    3    2    1    0
+    791  Elcentro    4    3    3    2    1    0
+    792  Elcentro    4    3    3    2    1    0
+    793  Elcentro    4    2
+    794  Elcentro    4    3    3    2    1    0
+    795  Elcentro    4    2    1
+    796  Elcentro    4    3    3    2    1    0
+    797  Elcentro    4    3    3    2    1    0
+    798  Elcentro    4    3    3    2    1    0
+    799  Elcentro    4    2
+    800  Elcentro    2    2    2    1    1    1
+    801  Elcentro    2    2    2    1    1    1
+    802  Elcentro    2    2    2    1    1    1
+    803  Elcentro    2    1
+    804  Elcentro    2    2    2    1    1    1
+    805  Elcentro    2    2    2    1    1    1
+    806  Elcentro    4    3    3    2    1    0
+    807  Elcentro    4    3    3    2    1    0
+    808  Elcentro    4    3    3    2    1    0
+    809  Elcentro    4    3    3    2    1    0
+    810  Elcentro    4    2
+    811  Elcentro    4    2
+    812  Elcentro    4    3    3    2    1    0
+    813  Elcentro    4    3    3    2    1    0
+    814  Elcentro    4    3    3    2    1    0
+    815  Elcentro    4    3    3    2    1    0
+    816  Elcentro    4    2    1
+    817  Elcentro    4    2    1
+    818  Elcentro    4    2    1
+    819  Elcentro    4    2    1
+    820  Elcentro    4    2    1
+    821  Elcentro    4    2    1
+    822  Elcentro    4    2    1
+    823  Elcentro    4    2    1
+    824  Elcentro    4    2    1
+    825  Elcentro    2    2    1
+    826  Elcentro    2    2    1
+    827  Elcentro    2
+    828  Elcentro    2    2    1
+    829  Elcentro    2    2    1
+    830  Elcentro    2    2    1
+    831  Elcentro    4    2    1
+    832  Elcentro    4    2    1
+    833  Elcentro    4
+    834  Elcentro    4    2    1
+    835  Elcentro    4    2    1
+    836  Elcentro    4    2    1
+    837  Elcentro    4    2    1
+    838  Elcentro    4    2    1
+    839  Elcentro    4    2    1
+    840  Elcentro    4    2    1
+    841  Elcentro    4    2    1
+    842  Elcentro    4    2    1
+    843  Elcentro    4    2    1
+    844  Elcentro    4    2    1
+    845  Elcentro    4    2    1
+    846  Elcentro    4    2    1
+    847  Elcentro    4    2    1
+    848  Elcentro    4    2    1
+    849  Elcentro    4    2
+    850  Elcentro    2
+    851  Elcentro    2    2    1
+    852  Elcentro    2    2    1
+    853  Elcentro    2
+    854  Elcentro    2    2    1
+    855  Elcentro    2
+    856  Elcentro    4    2
+    857  Elcentro    4    3    3    2    1    0
+    858  Elcentro    4
+    859  Elcentro    4    3    3    2    1    0
+    860  Elcentro    4    3    3    2    1    0
+    861  Elcentro    4
+    862  Elcentro    4    2
+    863  Elcentro    4    3    3    2    1    0
+    864  Elcentro    4    3    3    2    1    0
+    865  Elcentro    4    2
+    866  Elcentro    4    2    1
+    867  Elcentro    4    2
+    868  Elcentro    4    2    1
+    869  Elcentro    4
+    870  Elcentro    4    3    3    2    1    0
+    871  Elcentro    4
+    872  Elcentro    4    2    1
+    873  Elcentro    4
+    874  Elcentro    4
+    875  Elcentro    2    2    2    1    1    1
+    876  Elcentro    2    2    2    1    1    1
+    877  Elcentro    3    2    1
+    878  Elcentro    3    2    1
+    879  Elcentro    3    2    1
+    880  Elcentro    3    2    1
+    881  Elcentro    4    2    1
+    882  Elcentro    4    2    1
+    883  Elcentro    4    2    1
+    884  Elcentro    4    2    1
+    885  Elcentro    4    2    1
+    886  Elcentro    4    2    1
+    887  Elcentro    4    2    1
+    888  Elcentro    4    2    1
+    889  Elcentro    4    2    1
+    890  Elcentro    4    2    1
+    891  Elcentro    4    2    1
+    892  Elcentro    4    2    1
+    893  Elcentro    4    2    1
+    894  Elcentro    4    2    1
+    895  Elcentro    4    2    1
+    896  Elcentro    4    2    1
+    897  Elcentro    4    2    1
+    898  Elcentro    4    2    1
+    899  Elcentro    4    2    1
+    900  Elcentro    3    2    1
+    901  Elcentro    3    2    1
+    902  Elcentro    3    2    1
+    903  Elcentro    3    2    1
+    904  Elcentro    2    2    2    1    1
+    905  Elcentro    2    2    2    1    1
+    906  Elcentro    4    3    2    1
+    907  Elcentro    3
+    908  Elcentro    4    2    1
+    909  Elcentro    4    3    2    1
+    910  Elcentro    2    1    1    1    1    1    0    0
+    911  Elcentro    4    3    2    2    1
